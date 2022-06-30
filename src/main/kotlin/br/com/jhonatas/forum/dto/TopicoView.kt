@@ -5,7 +5,7 @@ import java.time.LocalDateTime
 
 data class TopicoView (
 
-    var id: Long?,
+    val id: Long?,
     val titulo: String,
     val mensagem: String,
     val status: StatusTopico,

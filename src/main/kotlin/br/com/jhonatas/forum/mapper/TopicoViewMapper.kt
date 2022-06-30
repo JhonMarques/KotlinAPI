@@ -1,5 +1,6 @@
 package br.com.jhonatas.forum.mapper
 
+import br.com.jhonatas.forum.dto.TopicoForm
 import br.com.jhonatas.forum.dto.TopicoView
 import br.com.jhonatas.forum.model.Topico
 import org.springframework.stereotype.Component
